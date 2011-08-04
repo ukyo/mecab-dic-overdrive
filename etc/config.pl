@@ -1,6 +1,6 @@
 ### 最低，以下の二つは必ず最初に設定すること
-$HOME = '/home/user1/mecab-dic-overdrive'; ### このプロジェクトを解凍した場所。
-$DIC_SRC_DIR = '/home/user1/mecab-ipadic-2.7.0-20070801'; ### ipadicのソースを解凍した場所。
+$HOME = '/home/ukyo/mecab-dic-overdrive'; ### このプロジェクトを解凍した場所。
+$DIC_SRC_DIR = '/home/ukyo/mecab-ipadic-2.7.0-20070801'; ### ipadicのソースを解凍した場所。
 
 +{
     home_dir => $HOME,
