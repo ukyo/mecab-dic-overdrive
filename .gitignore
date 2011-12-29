@@ -1,4 +1,7 @@
 wikipedia.csv
 wikipedia.dic
 kaomoji.dic
-
+bin/mongo_mecab.pl
+*.pyc
+.project
+.pydevproject
